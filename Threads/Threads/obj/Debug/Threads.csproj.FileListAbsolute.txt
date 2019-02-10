@@ -1,0 +1,10 @@
+D:\Workspace\csharpPractice\Threads\Threads\bin\Debug\Threads.exe.config
+D:\Workspace\csharpPractice\Threads\Threads\bin\Debug\Threads.exe
+D:\Workspace\csharpPractice\Threads\Threads\bin\Debug\Threads.pdb
+D:\Workspace\csharpPractice\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+D:\Workspace\csharpPractice\Threads\Threads\obj\Debug\Threads.MainForm.resources
+D:\Workspace\csharpPractice\Threads\Threads\obj\Debug\Threads.Properties.Resources.resources
+D:\Workspace\csharpPractice\Threads\Threads\obj\Debug\Threads.csproj.GenerateResource.cache
+D:\Workspace\csharpPractice\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+D:\Workspace\csharpPractice\Threads\Threads\obj\Debug\Threads.exe
+D:\Workspace\csharpPractice\Threads\Threads\obj\Debug\Threads.pdb
